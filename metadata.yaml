@@ -1,0 +1,37 @@
+_repo: Feudal-tyrants-volume-I-of-4-The-Counts-of-Carlsheim-and-Sargans_69553
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lewis, M. G. (Matthew Gregory)
+    aliases:
+    - Lewis, Matthew Gregory
+    - Lewis, Monk
+    birthdate: 1775
+    deathdate: 1818
+    gutenberg_agent_id: '315'
+    url: http://www.gutenberg.org/2009/agents/315
+    wikipedia: https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+creator:
+  author:
+    agent_name: Naubert, Christiane Benedicte Eugenie Hebenstreit
+    gutenberg_agent_id: '55311'
+    url: http://www.gutenberg.org/2009/agents/55311
+description: ''
+gutenberg_issued: '2022-12-15'
+identifiers:
+  gutenberg: '69553'
+language: en
+pgterms:marc905: 20210728194128naubert
+pgterms:marc906: '1807'
+pgterms:marc907: GB
+production_note: Barry Abrahamsen and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United Kingdom: J. F. Hughes,1807.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Feudal tyrants, volume I (of 4): The Counts of Carlsheim and Sargans'
+url: http://www.gutenberg.org/ebooks/69553
