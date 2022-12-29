@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '315'
     url: http://www.gutenberg.org/2009/agents/315
     wikipedia: https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+covers:
+- cover_type: archival
+  image_path: 69553-h/images/cover.jpg
 creator:
   author:
     agent_name: Naubert, Christiane Benedicte Eugenie Hebenstreit
     gutenberg_agent_id: '55311'
     url: http://www.gutenberg.org/2009/agents/55311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69553#Feudal-tyrants-volume-I-of-4-The-Counts-of-Carlsheim-and-Sargans
 gutenberg_issued: '2022-12-15'
 identifiers:
   gutenberg: '69553'
